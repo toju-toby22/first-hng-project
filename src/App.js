@@ -21,6 +21,34 @@ function App() {
               <p id="twitter" className="twitterusername">Toju_toby</p>
               <p id="slack" className="twitterusername" style={{ display: "none" }}>Toju_tobiliscious</p>
   
+
+
+
+  
+              <div className="link">
+                <div className="linktree">
+
+                    <a id="btn__zuri" className="links" href="https://training.zuri.team/">Twitter Link</a>
+
+                    <a id="btn__zuri" className="links" href="https://training.zuri.team/">Zuri Team</a>
+
+                    <a id="books" className="links" href="http://books.zuri.team"
+                        title="This is where you find books about design and coding">Zuri Books</a>
+
+                    <a id="book__python" ref_id="Toju_tobiliscious" className="links" href="https://books.zuri.team/"
+                        title="A Deatailed book about Python. Click get the perfect guide for your Python journey">Python Books</a>
+
+                    <a id="pitch" className="links" href="https://background.zuri.team"
+                        title="This is where you find books about design and coding">Background Check for Coders</a>
+
+
+                    <a id="book__design" className="links" href="https://books.zuri.team/design-rules"
+                        title="Free design book offered by Zuri. Very informative and detailed book that guides your steps in designing">Design Books</a>
+
+                    <a id="book__design" className="links" href="https://books.zuri.team/design-rules"
+                        title="Free design book offered by Zuri. Very informative and detailed book that guides your steps in designing">Design Books</a>
+                </div>
+            </div>
           </div>
   
       </div>
