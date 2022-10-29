@@ -45,8 +45,7 @@ function App() {
                     <a id="book__design" className="links" href="https://books.zuri.team/design-rules"
                         title="Free design book offered by Zuri. Very informative and detailed book that guides your steps in designing">Design Books</a>
 
-                    <a id="book__design" className="links" href="https://books.zuri.team/design-rules"
-                        title="Free design book offered by Zuri. Very informative and detailed book that guides your steps in designing">Design Books</a>
+                   
                 </div>
             </div>
           </div>
