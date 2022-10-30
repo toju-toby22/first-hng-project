@@ -96,7 +96,7 @@ function App() {
           <div className="link">
             <div className="linktree">
 
-              <a id="btn__zuri" className="links" href="https://training.zuri.team/">Twitter Link</a>
+              <a id="btn__zuri" className="links" href="https://twitter.com/Toju_toby?t=cldhJOuzZ5IDMuE05LBTnw&s=09">Twitter Link</a>
 
               <a id="btn__zuri" className="links" href="https://training.zuri.team/">Zuri Team</a>
 
