@@ -109,6 +109,17 @@ body {
 
 
 
+
+
+
+
+
+
+
+
+
+
+
 .social-icons {
   display: flex;
   justify-content: center;
@@ -169,4 +180,93 @@ body {
 
   width: 1280px;
   height: 64px;
+}
+
+
+
+
+@media screen and (max-width: 425px) {
+  .desktop-view {
+    display: none;
+  }
+
+  .Mobile-view {
+    display: block;
+  }
+
+  .first-page {
+    height: 892px;
+    width: 375px;
+    left: 0px;
+    top: 0px;
+    border-radius: 0px;
+    padding: 64px 0px 32px 0px;
+    background: rgba(255, 255, 255, 1);
+  }
+
+  .image {
+    height: 88px;
+    width: 88px;
+    left: 532px;
+    top: 0px;
+    border-radius: 275px;
+  
+  }
+  .twitterusername {
+    /* //styleName: Text xl/Bold; */
+    font-family: Text xl/Bold;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: center;
+  
+  }
+  
+  .picxusername {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .avatar {
+    height: 40px;
+    width: 40px;
+    right: 500px;
+    top: -30px;
+    border-radius: 20px;
+    margin-top: 30px;
+  }
+
+
+
+  .linktree {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 24px;
+  
+  }
+  
+  .link {
+    margin-top: 20px;
+  
+  }
+  .links {
+    height: 68px;
+    width: 343px;
+    left: 0px;
+    top: 0px;
+    border-radius: 8px;
+    padding: 24px 32px 24px 32px;
+    background: rgba(234, 236, 240, 1);
+    font-family: Text lg/Medium;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 28px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: rgba(16, 24, 40, 1);
+    text-decoration: none;
+  }
 }
