@@ -125,9 +125,9 @@ function App() {
           <div className='footer'>
             <div className='middle'>
               <div className='container'>
-                <img id="profile__img" className="vector" src={Zuri} alt="" />
+                <img id="profile__img" className="vector1" src={Zuri} alt="" />
                 <p>HNG Internship 9 Frontend Task</p>
-                <img id="profile__img" className="vector" src={i4g} alt="" />
+                <img id="profile__img" className="vector2" src={i4g} alt="" />
               </div>
 
             </div>
