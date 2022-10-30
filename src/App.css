@@ -370,5 +370,8 @@ body {
     margin-right: -300px;
     /* margin-top: 20px; */
   }
-
+  
+  body{
+    padding: 0px;
+  }
 }
