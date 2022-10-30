@@ -107,6 +107,11 @@ body {
 }
 
 
+.links:hover{
+  background: rgb(187, 188, 190);
+
+}
+
 
 
 
@@ -375,5 +380,10 @@ body {
     padding: 0px;
     align-items: flex-start;
     justify-content: left;
+  }
+
+  .links:hover{
+    background: rgb(187, 188, 190);
+  
   }
 }
