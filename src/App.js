@@ -7,6 +7,7 @@ import github from "./icons-img/Icon.png"
 import slack from "./icons-img/slack.png"
 import Zuri from "./icons-img/Zuri.Internship_Logo (1).png"
 import i4g from "./icons-img/I4G.png"
+import menu from "./icons-img/_Avatar share button (1).png"
 
 function App() {
   return (
@@ -78,7 +79,7 @@ function App() {
         <div className="first-page">
 
           <div className="share-avatar">
-            <img className="avatar" src={avatarshare} alt="" />
+            <img className="avatar" src={menu} alt="" />
           </div>
 
           <div className="picxusername">
